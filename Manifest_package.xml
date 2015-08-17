@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<packagegui>
+  <name>Hello PacketApps</name>
+  <version>1.0</version>
+  <description>1.0</description>
+  <title>Hello PacketApps-1.0</title>
+  <faq>https://packetapps.com/product.php?p=2qvm87k</faq>
+  <requirements>None</requirements>
+  <required_version>2.2</required_version>
+  <copyright>http://www.gnu.org/licenses/gpl-3.0.txt</copyright>
+</packagegui>
